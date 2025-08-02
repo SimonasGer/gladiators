@@ -12,3 +12,4 @@ c:\Users\simon\Desktop\Code\Gladiators\Gladiators\obj\Debug\net9.0\refint\Gladia
 c:\Users\simon\Desktop\Code\Gladiators\Gladiators\obj\Debug\net9.0\Gladiators.pdb
 c:\Users\simon\Desktop\Code\Gladiators\Gladiators\obj\Debug\net9.0\Gladiators.genruntimeconfig.cache
 c:\Users\simon\Desktop\Code\Gladiators\Gladiators\obj\Debug\net9.0\ref\Gladiators.dll
+C:\Users\simon\Desktop\Code\Gladiators\Gladiators\obj\Debug\net9.0\Gladiators.sourcelink.json

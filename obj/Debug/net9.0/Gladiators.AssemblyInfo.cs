@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Gladiators")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+31063156fb489cd02b55ea75fb123741ad5b1e77")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+969698b57b2d8aa33b21191b8cbf8e2b3f856e51")]
 [assembly: System.Reflection.AssemblyProductAttribute("Gladiators")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Gladiators")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

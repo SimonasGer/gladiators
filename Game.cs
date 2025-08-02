@@ -30,17 +30,35 @@ public class Game
         Console.WriteLine("\nEnter your name if you remember.");
         string name = Console.ReadLine() ?? "Slave";
         Player player = new(name, archetype);
-        Menu prologue = new($"You are a {archetype}. You must fight to survive, {name}", ["Continue"],
+        Menu prologue = new($"You are a {archetype}. You must fight to survive, {name}. Right now, for example, your cellmate is lunging at you", ["Fight Back!"],
             [
+                () => Prologue(archetype),
                 () => Fight(player),
-                () => Environment.Exit(0),
             ]
 
         );
         prologue.Show();
     }
-    private static void Fight(object player)
+    private static void Fight(Player player)
     {
-        Console.WriteLine("Fight one");
+        Enemy enemy = new(player.Level);
+        while (enemy.Health > 0 && player.Health > 0)
+        {
+            player.Battle(enemy);
+            if (enemy.Health <= 0) break;
+
+            enemy.Battle(player);
+            if (player.Health <= 0) break;
+        }
+        if (player.Health <= 0)
+        {
+            Console.WriteLine("\nYou died");
+        }
+        else
+        {
+            Console.WriteLine($"You defeated {enemy.Name}. Continue?");
+            Console.ReadLine();
+
+        }
     }
 }
