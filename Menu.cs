@@ -15,7 +15,6 @@ public class Menu(string text, string[] options, Action[] actions)
             Console.WriteLine($"{i + 1}. {Options[i]}");
         }
         int choice = GetChoice();
-        Console.Clear();
         Actions[choice].Invoke();
     }
 
