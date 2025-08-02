@@ -1,0 +1,2 @@
+﻿using Gladiators;
+Game.Start();

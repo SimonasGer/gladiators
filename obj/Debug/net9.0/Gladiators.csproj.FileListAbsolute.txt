@@ -1,0 +1,14 @@
+c:\Users\simon\Desktop\Code\Gladiators\Gladiators\bin\Debug\net9.0\Gladiators.exe
+c:\Users\simon\Desktop\Code\Gladiators\Gladiators\bin\Debug\net9.0\Gladiators.deps.json
+c:\Users\simon\Desktop\Code\Gladiators\Gladiators\bin\Debug\net9.0\Gladiators.runtimeconfig.json
+c:\Users\simon\Desktop\Code\Gladiators\Gladiators\bin\Debug\net9.0\Gladiators.dll
+c:\Users\simon\Desktop\Code\Gladiators\Gladiators\bin\Debug\net9.0\Gladiators.pdb
+c:\Users\simon\Desktop\Code\Gladiators\Gladiators\obj\Debug\net9.0\Gladiators.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\simon\Desktop\Code\Gladiators\Gladiators\obj\Debug\net9.0\Gladiators.AssemblyInfoInputs.cache
+c:\Users\simon\Desktop\Code\Gladiators\Gladiators\obj\Debug\net9.0\Gladiators.AssemblyInfo.cs
+c:\Users\simon\Desktop\Code\Gladiators\Gladiators\obj\Debug\net9.0\Gladiators.csproj.CoreCompileInputs.cache
+c:\Users\simon\Desktop\Code\Gladiators\Gladiators\obj\Debug\net9.0\Gladiators.dll
+c:\Users\simon\Desktop\Code\Gladiators\Gladiators\obj\Debug\net9.0\refint\Gladiators.dll
+c:\Users\simon\Desktop\Code\Gladiators\Gladiators\obj\Debug\net9.0\Gladiators.pdb
+c:\Users\simon\Desktop\Code\Gladiators\Gladiators\obj\Debug\net9.0\Gladiators.genruntimeconfig.cache
+c:\Users\simon\Desktop\Code\Gladiators\Gladiators\obj\Debug\net9.0\ref\Gladiators.dll
